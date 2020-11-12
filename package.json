@@ -1,0 +1,21 @@
+{
+  "name": "combined",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-sol1.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.2",
+    "express": "^4.17.1",
+    "faker": "^4.1.0",
+    "mongoose": "^5.10.11"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
